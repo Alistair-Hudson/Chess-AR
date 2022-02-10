@@ -1,0 +1,30 @@
+{
+  "name": "com.wikitude.core",
+  "version": "9.10.0",
+  "displayName": "Wikitude SDK Core",
+  "description": "This package enables the creation of high-end single and multiple Image, Object, and Cylinder Tracking, and Multiple Tracker AR experiences.",
+  "unity": "2019.4",
+  "unityRelease": "10f1",
+  "keywords": [
+    "Wikitude",
+    "Augmented",
+    "Reality",
+    "AR",
+    "Expert Edition"
+  ],
+  "author": {
+    "name": "Wikitude GmbH",
+    "email": "info@wikitude.com",
+    "url": "https://www.wikitude.com"
+  },
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "This set of sample scenes demonstrate the full bandwith of tracking posibilites with the Wikitude SDK.",
+      "path": "Samples~"
+    }
+  ],
+  "documentationUrl": "https://www.wikitude.com/external/doc/expertedition/SetupGuide.html",
+  "changelogUrl": "https://www.wikitude.com/external/doc/expertedition/CHANGELOG.html",
+  "type": "tool"
+}

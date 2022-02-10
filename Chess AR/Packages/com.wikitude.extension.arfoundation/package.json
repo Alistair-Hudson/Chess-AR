@@ -1,0 +1,40 @@
+{
+  "name": "com.wikitude.extension.arfoundation",
+  "version": "9.10.0",
+  "displayName": "Wikitude SDK Extension - AR Foundation",
+  "description": "This package includes components to ensure compatibility with AR Foundation.",
+  "unity": "2019.4",
+  "unityRelease": "10f1",
+  "keywords": [
+    "Wikitude",
+    "Augmented",
+    "Reality",
+    "AR",
+    "Expert Edition",
+    "Foundation",
+    "Extension"
+  ],
+  "author": {
+    "name": "Wikitude GmbH",
+    "email": "info@wikitude.com",
+    "url": "https://www.wikitude.com"
+  },
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "This set of sample scenes demonstrate the full bandwith of tracking posibilites with the Wikitude SDK in parallel to AR Foundation.",
+      "path": "Samples~"
+    }
+  ],
+  "dependencies": {
+      "com.wikitude.core": "9.10.0",
+      "com.unity.xr.arfoundation": "4.0.9",
+      "com.unity.xr.arcore": "4.0.9",
+      "com.unity.xr.arkit": "4.0.9",
+      "com.unity.xr.arsubsystems": "4.0.9",
+      "com.unity.xr.legacyinputhelpers": "2.1.4"
+  },
+  "documentationUrl": "https://www.wikitude.com/external/doc/expertedition/SetupGuide.html",
+  "changelogUrl": "https://www.wikitude.com/external/doc/expertedition/CHANGELOG.html",
+  "type": "tool"
+}

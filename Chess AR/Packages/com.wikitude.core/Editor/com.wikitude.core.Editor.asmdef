@@ -1,0 +1,24 @@
+{
+    "name": "com.wikitude.core.Editor",
+    "references": [
+        "GUID:8f86f1373faaf4479bbb5f0fa397d38a",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "7.3.1",
+            "define": "URP_INSTALLED"
+        }
+    ],
+    "noEngineReferences": false
+}

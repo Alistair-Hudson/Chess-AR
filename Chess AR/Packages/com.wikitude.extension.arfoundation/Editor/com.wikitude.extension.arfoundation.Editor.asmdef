@@ -1,0 +1,17 @@
+{
+    "name": "com.wikitude.extension.arfoundation.Editor",
+    "references": [
+        "GUID:42c0674b236cc413692846c9a076583e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

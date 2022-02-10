@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 08852e2a1a4f2e54bb6e6d6b6e0979f4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: butt_low
+    100004: exhaust_low
+    100006: glass_low
+    100008: head_low
+    100010: hips_low
+    100012: leg_low
+    100014: leg_low001
+    100016: plug_low
+    100018: rotorback_low
+    100020: rotorwing_low
+    100022: rotorwing_low001
+    100024: thigh_low
+    100026: thigh_low001
+    100028: wing_low
+    100030: wing_low001
+    400000: //RootNode
+    400002: butt_low
+    400004: exhaust_low
+    400006: glass_low
+    400008: head_low
+    400010: hips_low
+    400012: leg_low
+    400014: leg_low001
+    400016: plug_low
+    400018: rotorback_low
+    400020: rotorwing_low
+    400022: rotorwing_low001
+    400024: thigh_low
+    400026: thigh_low001
+    400028: wing_low
+    400030: wing_low001
+    2100000: 03 - Default
+    2100002: 02 - Default
+    2300000: //RootNode
+    2300002: butt_low
+    2300004: exhaust_low
+    2300006: glass_low
+    2300008: head_low
+    2300010: hips_low
+    2300012: leg_low
+    2300014: leg_low001
+    2300016: plug_low
+    2300018: rotorback_low
+    2300020: rotorwing_low
+    2300022: rotorwing_low001
+    2300024: thigh_low
+    2300026: thigh_low001
+    2300028: wing_low
+    2300030: wing_low001
+    3300000: //RootNode
+    3300002: butt_low
+    3300004: exhaust_low
+    3300006: glass_low
+    3300008: head_low
+    3300010: hips_low
+    3300012: leg_low
+    3300014: leg_low001
+    3300016: plug_low
+    3300018: rotorback_low
+    3300020: rotorwing_low
+    3300022: rotorwing_low001
+    3300024: thigh_low
+    3300026: thigh_low001
+    3300028: wing_low
+    3300030: wing_low001
+    4300000: chest_low
+    4300002: wing_low001
+    4300004: rotorwing_low001
+    4300006: wing_low
+    4300008: rotorwing_low
+    4300010: hips_low
+    4300012: thigh_low001
+    4300014: leg_low001
+    4300016: thigh_low
+    4300018: leg_low
+    4300020: butt_low
+    4300022: plug_low
+    4300024: head_low
+    4300026: glass_low
+    4300028: exhaust_low
+    4300030: rotorback_low
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 81e8e9778cbbbbd45a6aa84d68b3822d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: be6f8f5f5e715d2409c91ec9f95ac4a6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
